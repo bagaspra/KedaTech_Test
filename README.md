@@ -23,19 +23,28 @@ Pertama, salin repositori proyek React dari GitHub:
 
 ```bash
 git clone https://github.com/bagaspra/KedaTech_Test.git
+```
 
-Langkah 2: Pindah ke Direktori Proyek
+## Langkah 2: Pindah ke Direktori Proyek
+
 Masuk ke direktori proyek yang telah Anda salin:
 
+```bash
 cd KedaTech_Test
+```
 
-Langkah 3: Instalasi Dependencies
+## Langkah 3: Instalasi Dependencies
+
 Instal semua dependensi proyek dengan menjalankan perintah berikut:
 
+```bash
 npm install
+```
 
-Langkah 4: Menjalankan Proyek
+## Langkah 4: Menjalankan Proyek
+
 Sekarang, Anda siap untuk menjalankan proyek React. Gunakan perintah berikut:
 
+```bash
 npm Run Dev
 ```
