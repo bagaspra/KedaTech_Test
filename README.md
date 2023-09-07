@@ -6,6 +6,10 @@ sehingga mempercepat desain UI.
 Keduanya saya gunakan untuk menghemat waktu dan membuat tampilan yang menarik secara visual
 di karenakan adanya batas waktu yang di berikan untuk pengerjaannya.
 
+Web Bisa Di Akses secara langsung menggunakan Link di bawah ini
+
+https://erplandingpage.vercel.app/
+
 # Panduan Instalasi Proyek React
 
 Ini adalah panduan langkah demi langkah untuk menginstal dan menjalankan proyek React di komputer Anda.
